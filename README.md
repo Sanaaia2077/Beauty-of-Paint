@@ -1,2 +1,3 @@
 # Beauty-of-Paint
-algorithmics project :))
+**algorithmics**
+## project :))
